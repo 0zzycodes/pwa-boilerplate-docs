@@ -5,6 +5,11 @@ const CACHE_NAME = 'pwa-cache';
 const FILES_TO_CACHE = [
   '/',
   '/index.html',
+  '/style.css',
+  '/images/code.gif',
+  '/images/extract.gif',
+  '/images/manifest.gif',
+  '/images/manifest.png',
   '/scripts/service.js',
   '/scripts/install.js',
 ];
